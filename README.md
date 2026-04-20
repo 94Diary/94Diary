@@ -1,16 +1,34 @@
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Pornpichai Sritinun</h1>
-<h3>🎓 Computer Engineering Student</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pornpichai%20Sritinun&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%F0%9F%8E%93%20Computer%20Engineering%20Student&descAlignY=56&descSize=20&descColor=a8b2d8" width="100%" />
+</div>
 
-I'm passionate about coding and problem-solving. I believe in learning by doing, so I constantly build small projects to improve my skills and understand how things work under the hood.
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> I'm Pornpichai Sritinun
+</h1>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=7C83FD&center=true&vCenter=true&width=540&lines=Computer+Engineering+Student+%F0%9F%8E%93;Passionate+about+Coding+%26+Problem+Solving+%F0%9F%92%BB;Always+Building+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-- 🌍 I'm based in **Bangkok, Thailand**
-- ✉️ You can contact me at [knkzuk@gmail.com](mailto:knkzuk@gmail.com)
-- 🧠 I'm currently learning:
-  - **JavaScript (Node.js)** – Backend logic and automation
-  - **Luau** – Advanced game systems design
-  - **Algorithms & Data Structures** – Writing cleaner and more efficient code
+<br/>
+
+<p align="center">
+  I'm passionate about coding and problem-solving. I believe in learning by doing, so I constantly build small projects to improve my skills and understand how things work under the hood.
+</p>
+
+<br/>
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🌍 | **Bangkok, Thailand** |
+| ✉️ | [knkzuk@gmail.com](mailto:knkzuk@gmail.com) |
+| 🧠 | **JavaScript (Node.js)** · **Luau** · **Algorithms & Data Structures** |
+
+</div>
+
+<br/>
 
 ---
 
@@ -18,7 +36,7 @@ I'm passionate about coding and problem-solving. I believe in learning by doing,
 
 ### 📝 Languages
 
-<p>
+<p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="40" height="40" /></a>&nbsp;&nbsp;
@@ -30,7 +48,7 @@ I'm passionate about coding and problem-solving. I believe in learning by doing,
 
 ### 🎨 Frontend
 
-<p>
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="40" height="40" /></a>
@@ -38,30 +56,40 @@ I'm passionate about coding and problem-solving. I believe in learning by doing,
 
 ### 🔧 Backend
 
-<p>
+<p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="40" height="40" /></a>
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" /></a>
 </p>
 
 ### ☁️ Tools
 
-<p>
+<p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="40" height="40" /></a>
+  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="40" height="40" /></a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=94Diary&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&text_color=a8b2d8" alt="GitHub Stats" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=94Diary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&text_color=a8b2d8" alt="Top Languages" height="165" />
+</div>
 
 ---
 
 ## 🌐 Socials
 
-<p>
+<p align="left">
   <a href="https://www.github.com/94Diary" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -70,3 +98,9 @@ I'm passionate about coding and problem-solving. I believe in learning by doing,
     </picture>
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+</div>
