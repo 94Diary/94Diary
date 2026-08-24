@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pornpichai%20Sritinun&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=🎓%20Computer%20Engineering%20Student&descAlignY=56&descSize=20&descColor=a8b2d8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=🎓%20Computer%20Engineering%20Student&descAlignY=56&descSize=20&descColor=a8b2d8" width="100%" />
 </div>
 
 <h1 align="center">
