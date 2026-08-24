@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi 👋 I'm Pornpichai Sritinun
+  Hi 👋 
 </h1>
 
 <div align="center">
