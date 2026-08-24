@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=🎓%20Computer%20Engineering%20Student&descAlignY=56&descSize=20&descColor=a8b2d8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=🎓%20Final-Year%20Computer%20Engineering%20Student&descAlignY=56&descSize=20&descColor=a8b2d8" width="100%" />
 </div>
 
 <h1 align="center">
-  Hi 👋 
+  Hi, I'm 94Diary 👋
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=7C83FD&center=true&vCenter=true&width=540&lines=Computer+Engineering+Student;Passionate+about+Coding+%26+Problem+Solving;Always+Building+%26+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=7C83FD&center=true&vCenter=true&width=560&lines=Final-Year+Computer+Engineering+Student;Graduating+Soon+%F0%9F%8E%93;Exploring+Backend+%26+Systems+Dev;Always+Building+%26+Learning" />
 </div>
 
 ---
@@ -16,11 +16,16 @@
 
 <div align="center">
 
-| 🌍 Location | ✉️ Email | 💻 Focus |
+| 🌍 Location | 🎓 Status | 💻 Focus |
 |:--:|:--:|:--:|
-| Bangkok, Thailand | knkzuk@gmail.com | Node.js · Luau · Algorithms |
+| Bangkok, Thailand | Final-year student, graduating soon | Node.js · Luau · Algorithms |
 
 </div>
+
+- 🎓 Wrapping up my final year in Computer Engineering
+- 🌱 Currently sharpening my skills in backend systems & clean architecture
+- 🎯 Open to junior / entry-level opportunities after graduation
+- 📫 Feel free to reach out through GitHub — open an issue or drop a message
 
 ---
 
