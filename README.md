@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20%26%20Learning%20One%20Project%20at%20a%20Time&descAlignY=56&descSize=20&descColor=a8b2d8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header" width="100%" />
 </div>
 
 <h1 align="center">
@@ -114,5 +114,5 @@ I don't know everything. I'm just here to keep building, keep learning, and get 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 </div>
